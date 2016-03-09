@@ -11,3 +11,4 @@
 # Lines starting with '#' are ignored
 # Place servers below the next line
 ###########################################################
+64.94.101.165 NA Battle Fast
